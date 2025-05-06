@@ -10,7 +10,7 @@
   <h3>🎬 Movie Explorer App</h3>
   <p>A full-featured movie discovery platform built with modern web technologies.</p>
 
-   <p><a href="https://hpanel.hostinger.com/websites/darkred-cheetah-623065.hostingersite.com" target="_blank">
+   <p><a href="https://darkred-cheetah-623065.hostingersite.com" target="_blank">
     🌐 View Live Site
   </a></p>
   
